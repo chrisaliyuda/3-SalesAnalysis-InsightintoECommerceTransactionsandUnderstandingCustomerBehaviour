@@ -5,7 +5,7 @@ Click [here](https://x.com/omoalhajaabiola/status/1770801858530914496?t=qFd2T4z5
 # Problem 1: Identify outliers or anomalies in the dataset, such as unusually large orders or frequent returns, and what factors might explain them? 
 This problem was solved using Python. Click the link [here](https://github.com/chrisaliyuda/Sales-Analysis/blob/main/E-commerce%20Analysis.ipynb) to understand the process taken to fish out outliers in which there are several of them by the way. It was noticed that these outliers was mostly seen in United Kingdom, so this means that the data entry procedure is not efficient in the UK branch, as most of the errors came from there. Meanwhile, this might be as a result of much more sales and much more percentage of the dataset coming from the UK. So, one thing to be done as it regards this problem is to set more effective and automated of collecting the sales data in the UK. 
 
-Also, the outliers and other data validity issues was dealt with using Python libraries before importing into Power BI. 
+Also, the outliers and other data validity issues was dealt with using Python libraries before importing into Power BI for further analysis. 
 
 # Problem 2: Identify and explain important metrics in the dataset.
 ![Sales An_page-0001](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/446e44a3-0833-4cc9-ba38-fc665ca9dde0)
