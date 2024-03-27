@@ -19,13 +19,17 @@ And to deep dive into why this is so, we tend to understand the top products tha
 # Problem 3: What is the month-over-month or year-over-year growth rate in revenue for each product category, and how does it compare to overall revenue growth?
 ![Sales An_page-0003](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/6f0592b0-973c-4c38-9954-dde60c6f1135)
 
-Understanding such massive increase in revenue raised more questions which led to understanding the months that performed well by analyzing the month over month revenue generated. 
+Understanding such massive increase in revenue raised more concerns which led to understanding the months that performed well by analyzing the month over month revenue generated. 
 
-# Problem 4: Create a geographical heat map showing the distribution of customer orders by country, and idnetify any regions with particularly high or low sales activity?
+# Problem 4: Create a geographical heat map showing the distribution of customer orders by country, and identify any regions with particularly high or low sales activity?
 ![Sales An_page-0004](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/1cc43b19-26f0-482a-8375-b9f809213f31)
+
+Understanding the region with the best  sales performance is also important, and the geographical heat map shows that the United Kingdom generated more sales than most regions.
 
 # Problem 5: Identify any seasonal trends or patterns in customer purchasing behaviour over the years.
 ![Sales An_page-0005](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/eb33872d-df2f-4a6a-afc1-eedf1dea8f72)
+
+To show seasonal trend, a line chat was used and it shows that our business experience a top sales level mostly in November. 
 
 ### Interact with the Power BI project using the link [here]
 
