@@ -31,7 +31,6 @@ Understanding the region with the best  sales performance is also important, and
 
 To show seasonal trend, a line chat was used and it shows that our business experience a top sales level mostly in November. 
 
-### Interact with the Power BI project using the link [here]
-
+### Interact with the Power BI project using the link [here](https://app.powerbi.com/links/WzZ5Ka-laJ?ctid=39c68ff1-a810-4cda-ab2f-5218156b5f4d&pbi_source=linkShare&bookmarkGuid=9df88039-7689-4cca-950c-b3a1f482844f)
 
 
