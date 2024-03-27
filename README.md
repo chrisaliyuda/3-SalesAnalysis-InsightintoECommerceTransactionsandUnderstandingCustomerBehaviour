@@ -10,6 +10,8 @@ Also, the outliers and other data validity issues was dealt with using Python li
 # Problem 2: Identify and explain important metrics in the dataset.
 ![Sales An_page-0001](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/446e44a3-0833-4cc9-ba38-fc665ca9dde0)
 
+The image above shows some important metrics about the business, ranging from total revenue made, the total number of product sold between 2010 and 2011, but the one to take note of the massive sales growth from 2010 to 2011. The business experienced about 1192% growth in revenue generation between 2010 and 2011. 
+
 ![Sales An_page-0002](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/8ccb0e09-3275-4579-b321-ab24e9d836a3)
 
 # Problem 3: What is the month-over-month or year-over-year growth rate in revenue for each product category, and how does it compare to overall revenue growth?
