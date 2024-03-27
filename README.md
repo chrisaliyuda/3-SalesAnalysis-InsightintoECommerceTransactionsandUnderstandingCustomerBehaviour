@@ -14,6 +14,8 @@ The image above shows some important metrics about the business, ranging from to
 
 ![Sales An_page-0002](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/8ccb0e09-3275-4579-b321-ab24e9d836a3)
 
+And to deep dive into why this is so, we tend to understand the top products that sold the most and thus generated more profit. The image above gives a clear insight on that.
+
 # Problem 3: What is the month-over-month or year-over-year growth rate in revenue for each product category, and how does it compare to overall revenue growth?
 ![Sales An_page-0003](https://github.com/chrisaliyuda/Sales-Analysis/assets/102206477/6f0592b0-973c-4c38-9954-dde60c6f1135)
 
